@@ -1,0 +1,24 @@
+{
+  "name": "fetchpratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HsuThalHmwe/fetchpratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HsuThalHmwe/fetchpratice/issues"
+  },
+  "homepage": "https://github.com/HsuThalHmwe/fetchpratice#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
